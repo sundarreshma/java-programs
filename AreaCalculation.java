@@ -12,7 +12,7 @@ public class AreaCalculation {
 		this.height=height;
 		//int constant=1/2;
 		int area=1/2*(length*height);
-		System.out.println("Area of trinagle "+ area );	
+		System.out.println("Area of trinagle "+ areaa );	
 	}
 	
 
